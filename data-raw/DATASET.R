@@ -38,3 +38,10 @@ c4 <- colnames(reptile)
 c5 <- colnames(shark_ray)
 c6 <- colnames(teleost)
 
+#---
+use_r("amphibian")
+use_r("bird")
+use_r("mammal")
+use_r("reptile")
+use_r("shark_ray")
+use_r("teleost")
