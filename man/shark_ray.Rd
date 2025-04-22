@@ -17,9 +17,9 @@ A data frame with 450 rows and 18 variables
 \item{Sex}{Gender: m-male, f-female}
 \item{Method}{Method of measuring brain size}
 \item{Body mass (g)}{Body mass (g)}
-\item{Body mass S.D}{Body mass S.D}
+\item{Body mass S.D.}{Body mass S.D}
 \item{Brain mass (g)}{Brain mass (g)}
-\item{Brain mass S.D}{Brain mass S.D}
+\item{Brain mass S.D.}{Brain mass S.D}
 \item{Age Class}{Age Class}
 \item{Locality}{Locality}
 \item{Species Name in original article}{Species Name in original article}

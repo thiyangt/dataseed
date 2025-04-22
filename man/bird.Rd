@@ -15,7 +15,7 @@ A data frame with 10176 rows and 20 variables
 \item{Genus_Species}{Genus species}
 \item{Sex}{Gender: m-male, f-female}
 \item{Sample size}{The sample size used to estimate static allometries}
-\item{Brain volume (mm3)}{Brain volume}
+\item{Brain Volume (ml)}{Brain volume}
 \item{Method}{Method of measuring brain size}
 \item{Brain mass (g)}{Brain mass in grams}
 \item{Body mass (g)}{Body mass in grams}
