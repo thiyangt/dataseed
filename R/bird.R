@@ -1,7 +1,7 @@
 #' Phylogenetic data files recording body mass, brain volume and brain mass: birds
 #'
 #'@description Phylogenetic data files recording body mass, brain volume and brain mass of birds by Tsuboi, M., van der Bijl, W., Kopperud, B.T., Erritzøe, J., Voje, K.L., Kotrschal, A., Yopak, K.E., Collin, S.P., Iwaniuk, A.N. and Kolm, N., 2018. Breakdown of brain–body allometry and the encephalization of birds and mammals. Nature Ecology & Evolution, 2(9), pp.1492-1500.
-#'@format A data frame with 514 rows and 17 variables
+#'@format A data frame with 10176 rows and 20 variables
 #'\description{
 #'\item{Order}{Order}
 #'\item{Family}{Family}
