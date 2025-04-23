@@ -39,6 +39,6 @@ mammal
 Phylogenetic data files recording body mass, brain volume and brain mass of mammals by Tsuboi, M., van der Bijl, W., Kopperud, B.T., Erritzøe, J., Voje, K.L., Kotrschal, A., Yopak, K.E., Collin, S.P., Iwaniuk, A.N. and Kolm, N., 2018. Breakdown of brain–body allometry and the encephalization of birds and mammals. Nature Ecology & Evolution, 2(9), pp.1492-1500.
 }
 \examples{
-data(mammal
+data(mammal)
 }
 \keyword{datasets}
